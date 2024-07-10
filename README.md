@@ -1,6 +1,10 @@
-## Figma URL
+## Deployed Site
+ https://sahithya-unsplash-images.netlify.app/
 
-[Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
+https://sahithya-unsplash-images.netlify.app/
+https://sahithya-unsplash-images.netlify.app/
+
+
 
 ## Steps
 
