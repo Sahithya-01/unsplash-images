@@ -1,10 +1,8 @@
 ## Deployed Site
  https://sahithya-unsplash-images.netlify.app/
 
-https://sahithya-unsplash-images.netlify.app/
-https://sahithya-unsplash-images.netlify.app/
-
-
+![Screenshot 2024-07-09 at 22 55 25](https://github.com/Sahithya-01/unsplash-images/assets/67500379/4103125c-41ba-4a24-86d6-674102295472)
+![Screenshot 2024-07-09 at 22 55 58](https://github.com/Sahithya-01/unsplash-images/assets/67500379/09e335c6-1c0c-434f-a155-89122775a3ae)
 
 ## Steps
 
